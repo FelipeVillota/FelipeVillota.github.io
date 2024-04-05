@@ -18,7 +18,7 @@ Example:
 
 ```yaml
 # site.yml
-name: Jekflix
+name: Felipe Villota
 ```
 
 #### `title`
