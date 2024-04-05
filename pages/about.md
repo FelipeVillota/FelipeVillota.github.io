@@ -7,7 +7,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="https://github.com/FelipeVillota/FelipeVillota.github.io/blob/master/image_library/DALL%C2%B7E%202024-04-05%2007.35.00%20-%20Transport%20us%20to%20the%20heart%20of%20the%20stadium%2C%20where%20the%20hooligans%20erupt%20in%20fervent%20passion%20as%20they%20watch%20their%20beloved%20football%20team%2C%20thei.png" border="0" width="300">
+<img class="img-rounded" src="https://i.ibb.co/yFH16WT/foto-pipe.jpg" alt="foto-pipe" border="0" width="300">
 
 # About
 
