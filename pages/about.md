@@ -7,7 +7,8 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="https://i.ibb.co/yFH16WT/foto-pipe.jpg" alt="foto-pipe" border="0" width="300">
+<img class="img-rounded" src= image_library/blog-image.jpg>
+
 
 # About
 
