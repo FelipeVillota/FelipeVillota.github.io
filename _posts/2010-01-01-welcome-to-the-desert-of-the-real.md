@@ -3,11 +3,11 @@ date: 2019-05-16 23:48:05
 layout: post
 title: Welcome!
 subtitle: This portofolio is a log of my data analysis journey, where I post personal and educational projects.
-description: >-
+description: 
   
-image: >-
+image:
 
-optimized_image: >-
+optimized_image:
 
 category:
 tags:
