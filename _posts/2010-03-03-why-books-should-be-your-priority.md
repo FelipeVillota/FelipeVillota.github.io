@@ -5,7 +5,7 @@ title: Titanic case
 subtitle: Impact of Mr. Leonardo's Absence on Titanic Survivors' Chances
 description:
 image: https://res.cloudinary.com/davromqhq/image/upload/v1712338213/titanic_ytnxe5.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1712337694/titanic_ytnxe5.jpg
+optimized_image:
 category: life
 tags:
   - logisticregression
