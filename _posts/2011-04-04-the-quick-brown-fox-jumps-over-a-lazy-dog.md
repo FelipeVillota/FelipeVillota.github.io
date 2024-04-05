@@ -9,6 +9,7 @@ optimized_image:
 category: assignment
 tags:
   - linearmixedmodels
+  - R
 author: Felipe Villota
 ---
 

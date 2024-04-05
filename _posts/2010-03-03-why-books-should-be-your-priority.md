@@ -9,6 +9,7 @@ optimized_image:
 category: assignment
 tags:
   - logisticregression
+  - R
 author: Felipe Villota
 paginate: true
 ---
