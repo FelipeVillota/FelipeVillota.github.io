@@ -11,11 +11,6 @@ permalink: /about/
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I do social data analysis. I like to think of it as a state of disciplined exploration of human connections: from the micro to the big stuff. Alongside traditional methods of empirical social research, I use computational social science approaches. I am very interested in social media research and user behavior in digital environments, especially when it comes to public opinion and sentiment. Art and travel have been the fuel for cultivating different analytical mindsets to interpret data around me. Below, red dots = places I've called home.
 
 <iframe src="https://felipevillota.com/wp-content/uploads/2024/04/mapp.html" width="100%" height="300" style="border: none; overflow: hidden;"></iframe>
