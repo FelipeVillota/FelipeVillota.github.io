@@ -7,7 +7,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="https://github.com/FelipeVillota/FelipeVillota.github.io/blob/master/images_for_website/foto_pipe.jpg" alt="Thomas A. Anderson" width="200">
+<img class="img-rounded" src="C:\Users\USER\Desktop\code\all_r\FelipeVillota.github.io\images_for_websitefoto_pipe.jpg" alt="Thomas A. Anderson" width="200">
 
 # About
 
