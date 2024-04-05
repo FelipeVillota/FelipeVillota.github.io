@@ -7,7 +7,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="file:///C:/Users/USER/Desktop/code/all_r/FelipeVillota.github.io/images_for_website/index.html" width="200">
+<img class="img-rounded" src="foto_pipe.jpg" width="200">
 
 # About
 
