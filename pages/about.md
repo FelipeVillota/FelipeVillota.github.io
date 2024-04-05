@@ -1,13 +1,13 @@
 ---
 layout: page
 menu: false
-date: '2020-02-27 01:53:59'
+date:
 title: About
 description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="foto_pipe.jpg" width="200">
+<img class="img-rounded" src="https://i.ibb.co/yFH16WT/foto-pipe.jpg" alt="foto-pipe" border="0" width="200">
 
 # About
 
