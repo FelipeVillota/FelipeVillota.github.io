@@ -1,5 +1,5 @@
 ---
-date: 2019-05-16 23:48:05
+date:
 layout: post
 title: Welcome!
 subtitle: This portofolio is a log of my data analysis journey, where I post personal and educational projects.
