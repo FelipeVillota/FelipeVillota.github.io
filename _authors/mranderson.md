@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: images_for_website/foto-pipe.jpg
+photo:
 name: Felipe Villota
 display_name: Felipe Villota
 position: Social Data Analyst
