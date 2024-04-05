@@ -7,7 +7,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src= image_library/blog-image.jpg>
+<img class="img-rounded" src= assets/blog-image.jpg>
 
 
 # About
