@@ -3,7 +3,7 @@ date: 2010-01-01 12:00:00 +0000
 layout: post
 title: Welcome!
 subtitle: This site is a log of my data analysis and visualization journey, where I post personal and educational projects.
-description: welcome-to-my-portfolio
+description:
   
 image:
 
