@@ -1,5 +1,5 @@
 ---
-date: 2024-01-01 12:00:00 +0000
+date: {% assign today = "now" | date: "%Y-%m-%d %H:%M:%S %z" %}{{ today }}
 layout: post
 title: Welcome!
 subtitle: This site is a log of my data analysis and visualization journey, where I post personal and educational projects.
