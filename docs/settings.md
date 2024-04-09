@@ -31,7 +31,7 @@ Example:
 
 ```yaml
 # site.yml
-title: Jekflix | A blog theme for Jekyll
+title: 
 ```
 
 #### `description`
@@ -44,7 +44,7 @@ Example:
 
 ```yaml
 # site.yml
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+description:
 ```
 
 #### `tags`
@@ -59,7 +59,6 @@ Example:
 # site.yml
 tags:
   - blog
-  - template
   - jekyll
   - theme
   - netlify

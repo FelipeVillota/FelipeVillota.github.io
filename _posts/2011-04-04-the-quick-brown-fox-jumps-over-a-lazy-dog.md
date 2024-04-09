@@ -6,7 +6,7 @@ subtitle:
 description: Estimating the level of postoperative pain following wisdom tooth surgery using fixed-effect predictors, considering the clustering of treatment hospitals.
 image: https://res.cloudinary.com/davromqhq/image/upload/v1712339531/wisdom_cqlxz8.jpg
 optimized_image: 
-category: assignment
+category: lab
 tags:
   - linearmixedmodels
   - R
