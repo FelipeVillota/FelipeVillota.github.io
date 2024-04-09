@@ -4,11 +4,11 @@ title:
 description:
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-show_hero: false
+  - data
+  - programming
+  - porfolio
+  - analysis
+show_hero: true
 menu:
   - title: Home
     url: /
