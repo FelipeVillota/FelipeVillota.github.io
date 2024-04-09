@@ -2,7 +2,7 @@
 date:
 layout: post
 title: Welcome!
-subtitle: This portofolio is a log of my data analysis journey, where I post personal and educational projects.
+subtitle: This site is a log of my data analysis journey, where I post personal and educational projects.
 description: 
   
 image:
