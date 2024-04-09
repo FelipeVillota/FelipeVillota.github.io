@@ -1,5 +1,5 @@
 ---
-date: {% assign today = "now" | date: "%Y-%m-%d %H:%M:%S %z" %}{{ today }}
+date: "{{ 'now' | date: '%Y-%m-%d %H:%M:%S %z' }}"
 layout: post
 title: Welcome!
 subtitle: This site is a log of my data analysis and visualization journey, where I post personal and educational projects.
