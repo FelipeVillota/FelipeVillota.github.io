@@ -1,5 +1,5 @@
 ---
-date: 2024-11-14
+date: 2022-11-14
 layout: post
 title: Animal Rights Scale
 subtitle: Lorem ipsum dolor sit amet.
