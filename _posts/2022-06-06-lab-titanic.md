@@ -3,7 +3,7 @@ date: 2018-11-22 12:26:40
 layout: post
 title: Titanic case
 subtitle: 
-description: Impact of Mr. Leonardo's Absence on Titanic Survivors' Chances
+description: Impact of Mr. Leonardo's absence on Titanic survivors' chances
 image: https://res.cloudinary.com/davromqhq/image/upload/v1712338213/titanic_ytnxe5.jpg
 optimized_image:
 category: lab
