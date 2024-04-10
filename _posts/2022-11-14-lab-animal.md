@@ -1,5 +1,5 @@
 ---
-# date: false
+date: false
 layout: post
 title: Dimension Reduction. Animal Rights Scale
 subtitle: Lorem ipsum dolor sit amet, consectetur.
