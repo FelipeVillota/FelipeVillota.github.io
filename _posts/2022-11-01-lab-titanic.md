@@ -14,9 +14,8 @@ author: Felipe Villota
 paginate: true
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
- <embed src="file:///C:/Users/USER/Desktop/code/all_r/FelipeVillota.github.io/labs/LAB1_logistic_regression_titanic/index.html" type="application/pdf" width="100%" height="600px" />
+ <embed src="https://felipevillota.com/wp-content/uploads/2024/04/LAB1_logistic_regression_titanic.pdf" type="application/pdf" width="100%" height="600px" />
 
 
 
