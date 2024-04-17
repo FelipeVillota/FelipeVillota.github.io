@@ -4,7 +4,7 @@ layout: post
 title: Test scores
 subtitle: 
 description: 
-image: 
+image: https://felipevillota.com/wp-content/uploads/2024/04/sem.png
 optimized_image: 
 category: lab
 tags:
