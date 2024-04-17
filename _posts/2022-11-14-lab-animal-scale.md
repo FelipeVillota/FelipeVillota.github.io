@@ -3,7 +3,7 @@ date: 2022-11-14
 layout: post
 title: Animal Rights Scale
 subtitle:
-description: Employing exploratory factor analysis (EFA) on the variables within the "Animal Rights Scale (ARS: Measuring Attitudes About Animal Rights and Animal Research" dataset to uncover underlying sets of latent factors reflected in participants' responses.
+description: Employing exploratory factor analysis (EFA) on the variables within the "Animal Rights Scale (ARS)". Measuring Attitudes About Animal Rights and Animal Research" dataset to uncover underlying sets of latent factors reflected in participants' responses.
 image: https://felipevillota.com/wp-content/uploads/2024/04/pca.png
 optimized_image:
 category: lab
