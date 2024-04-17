@@ -13,4 +13,4 @@ tags:
 author: Felipe Villota 
 ---
 
-<iframe src="https://felipevillota.com/wp-content/uploads/2024/04/LAB4_sem_test_scores.pdf" width="100%" height="600px"></iframe>
+<iframe src="https://docs.google.com/viewer?url=https://felipevillota.com/wp-content/uploads/2024/04/LAB4_sem_test_scores.pdf&embedded=true" width="100%" height="600px"></iframe>
