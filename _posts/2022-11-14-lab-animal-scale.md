@@ -11,7 +11,7 @@ tags:
   - EFA 
   - dimensionreduction
   - R
-author: mranderson
+author: Felipe Villota 
 ---
 
 <embed src= "https://felipevillota.com/wp-content/uploads/2024/04/LAB3_dimension_reduction_animal.pdf" width="100%" height="600px" />
