@@ -2,8 +2,8 @@
 date: 2022-11-14
 layout: post
 title: Animal Rights Scale
-subtitle: Lorem ipsum dolor sit amet.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+subtitle:
+description: Employing exploratory factor analysis (EFA) on the variables within the "Animal Rights Scale (ARS: Measuring Attitudes About Animal Rights and Animal Research" dataset to uncover underlying sets of latent factors reflected in participants' responses.
 image: https://felipevillota.com/wp-content/uploads/2024/04/pca.png
 optimized_image:
 category: lab
