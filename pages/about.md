@@ -11,8 +11,7 @@ permalink: /about/
 
 # About
 
-<span style="color: red;"> MSc Social Scientific Data Analysis</span>@LundsUniversiteit 
-<span style="color: red;"> BA in Political Science</span>@UniversitatPompeuFabra
+<span style="color: red;"> MSc Social Scientific Data Analysis</span>@LundsUniversiteit                      <span style="color: red;"> BA in Political Science</span>@UniversitatPompeuFabra
 
 I like to think of what I do as a disciplined exploration of human connections: from the micro to the big stuff. Alongside traditional methods of empirical social research, I use computational social science approaches. 
 
