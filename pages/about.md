@@ -15,7 +15,7 @@ permalink: /about/
 <b> BA in Political Science</b><a href="https://www.upf.edu/es/"> @UniversitatPompeuFabra</a>               
 <b> Sancarlista</b><a href="https://www.sancarlos.edu.co/"> @ColegioSanCarlos</a>
 
-I like to think of what I do as a disciplined exploration of human connections: from the micro to the big stuff. I am very interested in social media research and user behavior in digital environments, especially when it comes to public opinion and sentiment.
+I like to think of what I do as a disciplined exploration of human connections: from the micro to the big stuff. I am interested in how users behave in social media and digital environments, especially when it comes to public opinion and sentiment.
 
 Alongside traditional methods of empirical social research, I use computational social science approaches. I am constantly learning and trying to improve my data skills from end-to-end: from extraction to reporting.  
 
