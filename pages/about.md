@@ -3,7 +3,7 @@ layout: page
 menu: false
 date:
 title: About
-description: Some description.
+description: About me.
 permalink: /about/
 ---
 
