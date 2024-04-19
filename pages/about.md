@@ -12,7 +12,7 @@ permalink: /about/
 # About
 
 <b>MSc in Social Scientific Data Analysis</b><a href="https://www.lunduniversity.lu.se/"> @LundsUniversiteit</a>                      
-<b> BA in Political Science</b><a href="https://www.upf.edu/es/"> @UniversitatPompeuFabra</a>
+<b> BA in Political Science</b><a href="https://www.upf.edu/es/"> @UniversitatPompeuFabra</a> 
 <b> Sancarlista</b><a href="https://www.sancarlos.edu.co/"> @ColegioSanCarlos</a>
 
 I like to think of what I do as a disciplined exploration of human connections: from the micro to the big stuff. I am very interested in social media research and user behavior in digital environments, especially when it comes to public opinion and sentiment.
