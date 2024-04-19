@@ -13,9 +13,9 @@ permalink: /about/
 
 <span style="color: red;"> MSc Social Scientific Data Analysis</span>@LundsUniversiteit                      <span style="color: red;"> BA in Political Science</span>@UniversitatPompeuFabra
 
-I like to think of what I do as a disciplined exploration of human connections: from the micro to the big stuff. Alongside traditional methods of empirical social research, I use computational social science approaches. 
+I like to think of what I do as a disciplined exploration of human connections: from the micro to the big stuff. I am very interested in social media research and user behavior in digital environments, especially when it comes to public opinion and sentiment.
 
-I am very interested in social media research and user behavior in digital environments, especially when it comes to public opinion and sentiment. I am constantly learning and trying to improve my data skills from end-to-end: from extraction to reporting.  
+Alongside traditional methods of empirical social research, I use computational social science approaches. I am constantly learning and trying to improve my data skills from end-to-end: from extraction to reporting.  
 
 Art and travel have been the fuel for cultivating different analytical mindsets to interpret data around me. In recent years, I also picked up on birdwatching and putting on trail cams to observe nature. Below, red dots = places I've called home.
 
