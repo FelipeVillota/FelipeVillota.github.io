@@ -11,7 +11,7 @@ permalink: /about/
 
 # About
 
-< Social Data Analyst + Political Scientist >.
+<span style="color: red;">Social Data Analyst + Political Scientist</span>.
 
 I like to think of what I do as a disciplined exploration of human connections: from the micro to the big stuff. Alongside traditional methods of empirical social research, I use computational social science approaches. 
 
