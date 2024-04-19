@@ -11,8 +11,8 @@ permalink: /about/
 
 # About
 
-<span style="color: red;"> MSc Social Scientific Data Analysis</span>@LundsUniversiteit                      
-<span style="color: red;"> BA in Political Science</span>@UniversitatPompeuFabra
+<span style="color: red;"> MSc in Social Scientific Data Analysis</span><a href="https://www.lunduniversity.lu.se/">@LundsUniversiteit</a>                      
+<span style="color: red;"> BA in Political Science</span><a href="https://www.upf.edu/es/">@UniversitatPompeuFabra</a>
 
 I like to think of what I do as a disciplined exploration of human connections: from the micro to the big stuff. I am very interested in social media research and user behavior in digital environments, especially when it comes to public opinion and sentiment.
 
