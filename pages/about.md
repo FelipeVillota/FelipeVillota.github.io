@@ -11,9 +11,13 @@ permalink: /about/
 
 # About
 
-Social Data Analyst + Political Scientist.
+<font color="red">Social Data Analyst + Political Scientist</font>.
 
-I like to think of this connection as a state of disciplined exploration of human connections: from the micro to the big stuff. Alongside traditional methods of empirical social research, I use computational social science approaches. I am very interested in social media research and user behavior in digital environments, especially when it comes to public opinion and sentiment. Art and travel have been the fuel for cultivating different analytical mindsets to interpret data around me. Below, red dots = places I've called home.
+I like to think of what I do as a disciplined exploration of human connections: from the micro to the big stuff. Alongside traditional methods of empirical social research, I use computational social science approaches. 
+
+I am very interested in social media research and user behavior in digital environments, especially when it comes to public opinion and sentiment. I am constantly learning and trying to improve my data skills from end-to-end: from extraction to reporting.  
+
+Art and travel have been the fuel for cultivating different analytical mindsets to interpret data around me. In recent years, I also picked up on bird watching and trail cam. Below, red dots = places I've called home.
 
 <iframe src="https://felipevillota.com/wp-content/uploads/2024/04/mapp.html" width="100%" height="300" style="border: none; overflow: hidden;"></iframe>
 
