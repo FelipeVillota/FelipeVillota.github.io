@@ -17,7 +17,7 @@ permalink: /about/
 
 I like to think of what I do as a disciplined exploration of human connections: from the micro to the big stuff. I am interested in how users behave in social media and digital environments, especially when it comes to public opinion and sentiment.
 
-Alongside traditional methods of empirical social research, I use computational social science approaches. I am constantly learning and trying to improve my data skills from end-to-end: from extraction to reporting.  
+Alongside traditional methods of empirical social research, I use computational social science approaches. I am constantly learning and trying to improve my data skills from end-to-end: from extraction and management to reporting.  
 
 Art and travel have been the fuel for cultivating different analytical mindsets to interpret data around me. In recent years, I also picked up on birdwatching and putting on trail cams to observe nature. Below, red dots = places I've called home.
 
@@ -25,4 +25,4 @@ Art and travel have been the fuel for cultivating different analytical mindsets 
 
 
 <h3 style="font-size: smaller;">Credits & acknowledgements</h3>
-<p style="font-size: smaller;">This site was created using Jetflix by <a href="https://rossener.com" target="_blank" class="creator">Thiago Rossener</a>. Static post images were created using <a href="https://create.microsoft.com/en-us/features/ai-image-generator" target="_blank" class="creator"> Microsoft's AI image generator</a>.</p>
+<p style="font-size: smaller;">This site was created using Jetflix by <a href="https://rossener.com" target="_blank" class="creator">Thiago Rossener</a>. Occassional static post images were created using <a href="https://create.microsoft.com/en-us/features/ai-image-generator" target="_blank" class="creator"> Microsoft's AI image generator</a>.</p>
