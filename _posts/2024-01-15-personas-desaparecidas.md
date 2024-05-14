@@ -1,17 +1,16 @@
 ---
-date: 2024-01-10
+date: 2024-01-15
 layout: post
-title: Prevalent Discord
+title: People missing in Colombia 
 subtitle: 
 description: This thesis explores public reactions to the Colombian peace process via social media data, analyzing sentiment and opinion across 1.3 million user comments on 15,509 news media Facebook posts from 2020 to 2022, amidst events like the COVID-19 pandemic and unprecedented sociopolitical shifts.
 image: https://felipevillota.com/wp-content/uploads/2024/05/Captura-de-pantalla-547.png
 optimized_image: 
-category: msc thesis
+category: project
 tags:
-  - ML
-  - logisticregression
-  - automatedcontentanalysis
-  - socialmediaresearch
+  - map
+  - leaflet
+  - GIS
   - R
 author: Felipe Villota 
 ---
