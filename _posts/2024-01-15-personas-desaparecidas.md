@@ -15,17 +15,4 @@ tags:
 author: Felipe Villota 
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Interactive Map</title>
-</head>
-<body>
-    <h1>Interactive Map of Missing Persons in Colombia</h1>
-    <iframe src="https://rpubs.com/FelipeVillota/map_missing_col" width="100%" height="800px" frameborder="0" scrolling="no"></iframe>
-</body>
-</html>
-
-
+Access the document via <a href="https://rpubs.com/FelipeVillota/map_missing_col" target="_blank" class="creator">RPubs</a>.
