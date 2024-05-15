@@ -15,4 +15,4 @@ tags:
 author: Felipe Villota 
 ---
 
-<iframe src="https://felipevillota.com/wp-content/uploads/2024/05/mapa_desaparecidos.html" width="100%" height="300" style="border: none; overflow: hidden;"></iframe>
+<iframe src="https://felipevillota.com/wp-content/uploads/2024/05/mapa_desaparecidos.html" width="100%" height="600" style="border: none; overflow: hidden;"></iframe>
