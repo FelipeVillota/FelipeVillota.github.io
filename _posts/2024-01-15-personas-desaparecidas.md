@@ -3,7 +3,7 @@ date: 2024-01-15
 layout: post
 title: Missing people in Colombia 
 subtitle: 
-description:
+description: 
 image: https://felipevillota.com/wp-content/uploads/2024/05/Captura-de-pantalla-548.png
 optimized_image: 
 category: project
