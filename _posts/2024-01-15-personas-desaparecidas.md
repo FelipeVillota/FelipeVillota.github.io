@@ -15,6 +15,7 @@ tags:
 author: Felipe Villota 
 ---
 
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
