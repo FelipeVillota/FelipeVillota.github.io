@@ -15,4 +15,4 @@ tags:
 author: Felipe Villota 
 ---
 
-Access the document via <a href="https://lup.lub.lu.se/student-papers/search/publication/9149293" target="_blank" class="creator">LUP Student Papers</a>.
+<iframe src="https://felipevillota.com/wp-content/uploads/2024/05/mapa_desaparecidos.html" width="100%" height="300" style="border: none; overflow: hidden;"></iframe>
