@@ -23,9 +23,9 @@ Art and travel have been the fuel for cultivating different analytical mindsets 
 
 <iframe src="https://felipevillota.com/wp-content/uploads/2024/04/mapp.html" width="100%" height="300" style="border: none; overflow: hidden;"></iframe>
 
-<b>Languages:<b> Spanish, English, French, Portuguese
+<b>Languages:</b> Spanish, English, French, Portuguese
 
-<b>Programming and software:<b> R, Python, SQL, NVivo, Office, Tableau, Git, VS Code, WordPress, Elementor, Zotero, EndNote
+<b>Programming and software:</b> R, Python, SQL, NVivo, Office, Tableau, Git, VS Code, WordPress, Elementor, Zotero, EndNote
 
 
 <h3 style="font-size: smaller;">Credits & acknowledgements</h3>
