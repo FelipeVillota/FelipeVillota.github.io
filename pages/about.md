@@ -15,11 +15,11 @@ permalink: /about/
 <b> BA in Political Science</b><a href="https://www.upf.edu/es/"> @UniversitatPompeuFabra</a>               
 <b> Sancarlista</b><a href="https://www.sancarlos.edu.co/"> @ColegioSanCarlos</a>
 
-I like to think of what I do as a disciplined exploration of human connections: from the micro to the big stuff. I am interested in how users behave in social media and digital environments, especially when it comes to public opinion and sentiment.
+I view my training and work as a disciplined exploration of human connections, spanning from micro-level interactions to broader societal trends. My primary interest lies in understanding behavior within social media and digital environments, with a particular focus on public opinion and sentiment analysis.
 
-Alongside traditional methods of empirical social research, I use computational social science approaches. I am constantly learning and trying to improve my data skills from end-to-end: from extraction and management to reporting.  
+In addition to utilizing traditional empirical social research methods, I am deeply engaged with computational social science approaches. My goal is to continuously enhance my data skills across the entire pipeline — from data extraction and management to comprehensive reporting.
 
-Art and travel have been the fuel for cultivating different analytical mindsets to interpret data around me. In recent years, I also picked up on birdwatching and putting on trail cams to observe nature. Below, red dots = places I've called home.
+On a personal note, I believe that cultivating diverse analytical mindsets is essential for interpreting the information around me. Art and travel have been pivotal in this regard, providing fresh perspectives and sensibilities. To ensure a healthy balance and time away from screens, I have also taken up birdwatching and using trail cameras to observe nature. Below, red dots indicate places I have called home
 
 <iframe src="https://felipevillota.com/wp-content/uploads/2024/04/mapp.html" width="100%" height="300" style="border: none; overflow: hidden;"></iframe>
 
