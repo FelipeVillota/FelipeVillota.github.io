@@ -103,8 +103,5 @@ exclude: [
   'README.md'
 ]
 
-# Favicon (test)
-favicon: favicon.ico
-
 # Theme
 # version: v3.1.2
