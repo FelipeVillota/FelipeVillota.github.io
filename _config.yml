@@ -23,6 +23,7 @@ disqus_username: disqus_username
 formspree_form_id: formspree_form_id
 
 
+
 # Social Media Settings
 # Remove the item if you don't need it
 github_username: FelipeVillota
@@ -101,6 +102,9 @@ exclude: [
   'gulpfile.js',
   'README.md'
 ]
+
+# Favicon (test)
+favicon: favicon.ico
 
 # Theme
 # version: v3.1.2
