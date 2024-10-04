@@ -2,9 +2,9 @@
 layout: page
 menu: false
 date:
-title: Aterrizaje
+title: Aterrizaje. queparooooo
 description: About me.
-permalink: /about/
+permalink: /aterrizaje/
 ---
 
 <img class="img-rounded" src="https://i.ibb.co/yFH16WT/foto-pipe.jpg" alt="foto-pipe" border="0" width="300">
